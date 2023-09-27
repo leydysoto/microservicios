@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: usuario-service
+  claud:
+    config:
+      enable: true
+      uri: http://localhost:8081
+
+
+
